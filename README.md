@@ -8,3 +8,7 @@ of physics, but I will make it happen.
 ## License
 
 This project is licensed under the GPL 3.0.
+
+
+#Eduardi Nartubez edits to read me file
+
